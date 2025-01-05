@@ -1,13 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
-    <Filter Include="Level2">
-      <UniqueIdentifier>{b85d2cb6-82a2-45a0-9ac7-b8c1f4030a3c}</UniqueIdentifier>
+    <Filter Include="[Level2]">
+      <UniqueIdentifier>{deda1ebe-1698-4226-ba4f-426e7c554ddf}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="롤케이크 자르기.cpp">
-      <Filter>Level2</Filter>
+    <ClCompile Include="[Level2]\롤케이크 자르기.cpp">
+      <Filter>[Level2]</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
