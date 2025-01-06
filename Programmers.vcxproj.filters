@@ -12,5 +12,8 @@
     <ClCompile Include="[Level2]\롤케이크 자르기.cpp">
       <Filter>[Level2]</Filter>
     </ClCompile>
+    <ClCompile Include="[Level2]\방문 길이.cpp">
+      <Filter>[Level2]</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
