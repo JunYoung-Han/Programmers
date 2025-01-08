@@ -18,5 +18,8 @@
     <ClCompile Include="[Level2]\[3차] 압축.cpp">
       <Filter>[Level2]</Filter>
     </ClCompile>
+    <ClCompile Include="[Level2]\[3차] n진수 게임.cpp">
+      <Filter>[Level2]</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
