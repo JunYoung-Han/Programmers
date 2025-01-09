@@ -21,5 +21,8 @@
     <ClCompile Include="[Level2]\[3차] n진수 게임.cpp">
       <Filter>[Level2]</Filter>
     </ClCompile>
+    <ClCompile Include="[Level2]\k지수에서 소수 개수 구하기.cpp">
+      <Filter>[Level2]</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
