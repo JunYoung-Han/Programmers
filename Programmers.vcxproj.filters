@@ -27,5 +27,8 @@
     <ClCompile Include="[Level2]\뒤에 있는 큰 수 찾기.cpp">
       <Filter>[Level2]</Filter>
     </ClCompile>
+    <ClCompile Include="[Level2]\땅따먹기.cpp">
+      <Filter>[Level2]</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

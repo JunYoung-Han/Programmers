@@ -28,7 +28,10 @@
     <ClCompile Include="[Level2]\[3차] 압축.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="[Level2]\뒤에 있는 큰 수 찾기.cpp" />
+    <ClCompile Include="[Level2]\뒤에 있는 큰 수 찾기.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="[Level2]\땅따먹기.cpp" />
     <ClCompile Include="[Level2]\롤케이크 자르기.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
