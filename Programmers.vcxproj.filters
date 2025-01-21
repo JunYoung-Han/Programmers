@@ -30,5 +30,8 @@
     <ClCompile Include="[Level2]\땅따먹기.cpp">
       <Filter>[Level2]</Filter>
     </ClCompile>
+    <ClCompile Include="[Level2]\더 맵게.cpp">
+      <Filter>[Level2]</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
