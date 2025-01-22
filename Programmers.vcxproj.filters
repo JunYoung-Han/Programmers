@@ -42,5 +42,8 @@
     <ClCompile Include="[Level2]\주차 요금 계산.cpp">
       <Filter>[Level2]</Filter>
     </ClCompile>
+    <ClCompile Include="[Level2]\[3차] 파일명 정렬.cpp">
+      <Filter>[Level2]</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
