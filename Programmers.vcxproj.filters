@@ -48,5 +48,8 @@
     <ClCompile Include="[Level2]\오픈채팅방.cpp">
       <Filter>[Level2]</Filter>
     </ClCompile>
+    <ClCompile Include="[Level2]\숫자 변환하기.cpp">
+      <Filter>[Level2]</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
