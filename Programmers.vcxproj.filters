@@ -6,49 +6,55 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="[Level2]\모음사전.cpp">
+    <ClCompile Include="[Level2]\[2] [1차] 프렌즈4블록%28구현%29.cpp">
       <Filter>[Level2]</Filter>
     </ClCompile>
-    <ClCompile Include="[Level2]\롤케이크 자르기.cpp">
+    <ClCompile Include="[Level2]\[3차] n진수 게임%28구현%29.cpp">
       <Filter>[Level2]</Filter>
     </ClCompile>
-    <ClCompile Include="[Level2]\방문 길이.cpp">
+    <ClCompile Include="[Level2]\[3차] 압축%28구현%29.cpp">
       <Filter>[Level2]</Filter>
     </ClCompile>
-    <ClCompile Include="[Level2]\[3차] 압축.cpp">
+    <ClCompile Include="[Level2]\[3차] 파일명 정렬%28사용자 임의 Sort 함수%29.cpp">
       <Filter>[Level2]</Filter>
     </ClCompile>
-    <ClCompile Include="[Level2]\[3차] n진수 게임.cpp">
+    <ClCompile Include="[Level2]\2 x n 타일링%28dp문제%29.cpp">
       <Filter>[Level2]</Filter>
     </ClCompile>
-    <ClCompile Include="[Level2]\k지수에서 소수 개수 구하기.cpp">
+    <ClCompile Include="[Level2]\k진수에서 소수 개수 구하기%28소수 구하기, n차 변환%29.cpp">
       <Filter>[Level2]</Filter>
     </ClCompile>
-    <ClCompile Include="[Level2]\뒤에 있는 큰 수 찾기.cpp">
+    <ClCompile Include="[Level2]\더 맵게%28우선수위 큐%29.cpp">
       <Filter>[Level2]</Filter>
     </ClCompile>
-    <ClCompile Include="[Level2]\땅따먹기.cpp">
+    <ClCompile Include="[Level2]\뒤에 있는 큰 수 찾기%28stack, 이중순회%29.cpp">
       <Filter>[Level2]</Filter>
     </ClCompile>
-    <ClCompile Include="[Level2]\더 맵게.cpp">
+    <ClCompile Include="[Level2]\땅따먹기%28dp, 완전탐색X%29.cpp">
       <Filter>[Level2]</Filter>
     </ClCompile>
-    <ClCompile Include="[Level2]\스킬트리.cpp">
+    <ClCompile Include="[Level2]\롤케이크 자르기%28이중 순회X%29.cpp">
       <Filter>[Level2]</Filter>
     </ClCompile>
-    <ClCompile Include="[Level2]\택배상자.cpp">
+    <ClCompile Include="[Level2]\모음사전%28완전탐색, DFS%29.cpp">
       <Filter>[Level2]</Filter>
     </ClCompile>
-    <ClCompile Include="[Level2]\주차 요금 계산.cpp">
+    <ClCompile Include="[Level2]\방문 길이%28사용자 자료형, 좌표%29.cpp">
       <Filter>[Level2]</Filter>
     </ClCompile>
-    <ClCompile Include="[Level2]\[3차] 파일명 정렬.cpp">
+    <ClCompile Include="[Level2]\숫자 변환하기%28BFS, 하향식 계산%29.cpp">
       <Filter>[Level2]</Filter>
     </ClCompile>
-    <ClCompile Include="[Level2]\오픈채팅방.cpp">
+    <ClCompile Include="[Level2]\스킬트리%28string 문자 찾는 find 함수 활용%29.cpp">
       <Filter>[Level2]</Filter>
     </ClCompile>
-    <ClCompile Include="[Level2]\숫자 변환하기.cpp">
+    <ClCompile Include="[Level2]\오픈채팅방%28구현, 문자열 쪼개기%29.cpp">
+      <Filter>[Level2]</Filter>
+    </ClCompile>
+    <ClCompile Include="[Level2]\주차 요금 계산%28구현%29.cpp">
+      <Filter>[Level2]</Filter>
+    </ClCompile>
+    <ClCompile Include="[Level2]\택배상자%28stack%29.cpp">
       <Filter>[Level2]</Filter>
     </ClCompile>
   </ItemGroup>
