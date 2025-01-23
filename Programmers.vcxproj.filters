@@ -6,7 +6,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="[Level2]\[2] [1차] 프렌즈4블록%28구현%29.cpp">
+    <ClCompile Include="[Level2]\[1차] 프렌즈4블록%28구현%29.cpp">
       <Filter>[Level2]</Filter>
     </ClCompile>
     <ClCompile Include="[Level2]\[3차] n진수 게임%28구현%29.cpp">
@@ -55,6 +55,9 @@
       <Filter>[Level2]</Filter>
     </ClCompile>
     <ClCompile Include="[Level2]\택배상자%28stack%29.cpp">
+      <Filter>[Level2]</Filter>
+    </ClCompile>
+    <ClCompile Include="[Level2]\2개 이하로 다른 비트%28비트연산%29.cpp">
       <Filter>[Level2]</Filter>
     </ClCompile>
   </ItemGroup>

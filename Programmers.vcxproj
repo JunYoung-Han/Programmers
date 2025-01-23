@@ -22,10 +22,13 @@
     <ClCompile Include="[Level2]\2 x n 타일링%28dp문제%29.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
+    <ClCompile Include="[Level2]\2개 이하로 다른 비트%28비트연산%29.cpp" />
     <ClCompile Include="[Level2]\k진수에서 소수 개수 구하기%28소수 구하기, n차 변환%29.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="[Level2]\[2] [1차] 프렌즈4블록%28구현%29.cpp" />
+    <ClCompile Include="[Level2]\[1차] 프렌즈4블록%28구현%29.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
     <ClCompile Include="[Level2]\[3차] n진수 게임%28구현%29.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
