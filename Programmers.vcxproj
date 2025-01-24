@@ -40,7 +40,9 @@
     <ClCompile Include="[Level2]\[3차] 파일명 정렬%28사용자 임의 Sort 함수%29.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="[Level2]\다리를 지나는 트럭%28queue, 구현%29.cpp" />
+    <ClCompile Include="[Level2]\다리를 지나는 트럭%28queue, 구현%29.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
     <ClCompile Include="[Level2]\더 맵게%28우선수위 큐%29.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
@@ -62,6 +64,7 @@
     <ClCompile Include="[Level2]\방문 길이%28사용자 자료형, 좌표%29.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
+    <ClCompile Include="[Level2]\소수 찾기%28재귀%29.cpp" />
     <ClCompile Include="[Level2]\숫자 변환하기%28BFS, 하향식 계산%29.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
