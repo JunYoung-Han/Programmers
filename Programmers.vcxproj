@@ -43,6 +43,7 @@
     <ClCompile Include="[Level2]\더 맵게%28우선수위 큐%29.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
+    <ClCompile Include="[Level2]\두 큐 합 같게 만들기%28구현, limit 조건%29.cpp" />
     <ClCompile Include="[Level2]\뒤에 있는 큰 수 찾기%28stack, 이중순회%29.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
@@ -70,7 +71,9 @@
     <ClCompile Include="[Level2]\주차 요금 계산%28구현%29.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="[Level2]\쿼드압축 후 개수 세기%28DFS, 구현%29.cpp" />
+    <ClCompile Include="[Level2]\쿼드압축 후 개수 세기%28DFS, 구현%29.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
     <ClCompile Include="[Level2]\택배상자%28stack%29.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
