@@ -40,10 +40,13 @@
     <ClCompile Include="[Level2]\[3차] 파일명 정렬%28사용자 임의 Sort 함수%29.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
+    <ClCompile Include="[Level2]\다리를 지나는 트럭%28queue, 구현%29.cpp" />
     <ClCompile Include="[Level2]\더 맵게%28우선수위 큐%29.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="[Level2]\두 큐 합 같게 만들기%28구현, limit 조건%29.cpp" />
+    <ClCompile Include="[Level2]\두 큐 합 같게 만들기%28구현, limit 조건%29.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
     <ClCompile Include="[Level2]\뒤에 있는 큰 수 찾기%28stack, 이중순회%29.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
