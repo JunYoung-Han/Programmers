@@ -64,7 +64,10 @@
     <ClCompile Include="[Level2]\방문 길이%28사용자 자료형, 좌표%29.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="[Level2]\소수 찾기%28재귀%29.cpp" />
+    <ClCompile Include="[Level2]\삼각 달팽이.cpp" />
+    <ClCompile Include="[Level2]\소수 찾기%28재귀%29.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
     <ClCompile Include="[Level2]\숫자 변환하기%28BFS, 하향식 계산%29.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
