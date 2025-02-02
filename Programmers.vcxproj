@@ -64,7 +64,9 @@
     <ClCompile Include="[Level2]\방문 길이%28사용자 자료형, 좌표%29.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="[Level2]\삼각 달팽이.cpp" />
+    <ClCompile Include="[Level2]\삼각 달팽이%28구현%29.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
     <ClCompile Include="[Level2]\소수 찾기%28재귀%29.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
@@ -83,6 +85,7 @@
     <ClCompile Include="[Level2]\쿼드압축 후 개수 세기%28DFS, 구현%29.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
+    <ClCompile Include="[Level2]\큰 수 만들기(그리디, 순회 stack 이용).cpp" />
     <ClCompile Include="[Level2]\택배상자%28stack%29.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
