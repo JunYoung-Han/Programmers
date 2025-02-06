@@ -58,7 +58,9 @@
     <ClCompile Include="[Level2]\롤케이크 자르기%28이중 순회X%29.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="[Level2]\마법의 엘리베이터%28자리수 관련 문제%29.cpp" />
+    <ClCompile Include="[Level2]\마법의 엘리베이터%28자리수 관련 문제%29.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
     <ClCompile Include="[Level2]\모음사전%28완전탐색, DFS%29.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
@@ -83,6 +85,7 @@
     <ClCompile Include="[Level2]\오픈채팅방%28구현, 문자열 쪼개기%29.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
+    <ClCompile Include="[Level2]\전력망을 둘로 나누기%28BFS, 완전탐색%29.cpp" />
     <ClCompile Include="[Level2]\주차 요금 계산%28구현%29.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
