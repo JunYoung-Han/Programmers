@@ -72,7 +72,31 @@
     <ClCompile Include="[Level2]\쿼드압축 후 개수 세기%28DFS, 구현%29.cpp">
       <Filter>[Level2]</Filter>
     </ClCompile>
-    <ClCompile Include="[Level2]\삼각 달팽이.cpp">
+    <ClCompile Include="[Level2]\N-Queen.cpp">
+      <Filter>[Level2]</Filter>
+    </ClCompile>
+    <ClCompile Include="[Level2]\124 나라의 숫자%28dp, 재귀%29.cpp">
+      <Filter>[Level2]</Filter>
+    </ClCompile>
+    <ClCompile Include="[Level2]\마법의 엘리베이터%28자리수 관련 문제%29.cpp">
+      <Filter>[Level2]</Filter>
+    </ClCompile>
+    <ClCompile Include="[Level2]\삼각 달팽이%28구현%29.cpp">
+      <Filter>[Level2]</Filter>
+    </ClCompile>
+    <ClCompile Include="[Level2]\시소 짝꿍%28조합, 이중 순회%29.cpp">
+      <Filter>[Level2]</Filter>
+    </ClCompile>
+    <ClCompile Include="[Level2]\연속된 부분 수열의 합%28queue%29.cpp">
+      <Filter>[Level2]</Filter>
+    </ClCompile>
+    <ClCompile Include="[Level2]\전력망을 둘로 나누기%28BFS, 완전탐색%29.cpp">
+      <Filter>[Level2]</Filter>
+    </ClCompile>
+    <ClCompile Include="[Level2]\큰 수 만들기(그리디, 순회 stack 이용).cpp">
+      <Filter>[Level2]</Filter>
+    </ClCompile>
+    <ClCompile Include="[Level2]\호텔 대실%28구현, queue%29.cpp">
       <Filter>[Level2]</Filter>
     </ClCompile>
   </ItemGroup>
