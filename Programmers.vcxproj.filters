@@ -72,7 +72,7 @@
     <ClCompile Include="[Level2]\쿼드압축 후 개수 세기%28DFS, 구현%29.cpp">
       <Filter>[Level2]</Filter>
     </ClCompile>
-    <ClCompile Include="[Level2]\N-Queen.cpp">
+    <ClCompile Include="[Level2]\N-Queen%28DFS, 백트래킹%29.cpp">
       <Filter>[Level2]</Filter>
     </ClCompile>
     <ClCompile Include="[Level2]\124 나라의 숫자%28dp, 재귀%29.cpp">
