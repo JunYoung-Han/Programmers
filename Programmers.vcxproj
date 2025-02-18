@@ -70,6 +70,7 @@
     <ClCompile Include="[Level2]\모음사전%28완전탐색, DFS%29.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
+    <ClCompile Include="[Level2]\미로 탈출%28BFS, 최단거리 길 찾기%29.cpp" />
     <ClCompile Include="[Level2]\방문 길이%28사용자 자료형, 좌표%29.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
@@ -82,7 +83,9 @@
     <ClCompile Include="[Level2]\숫자 변환하기%28BFS, 하향식 계산%29.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="[Level2]\숫자 카드 나누기%28유클리드 호제법, 최대 공약수%29.cpp" />
+    <ClCompile Include="[Level2]\숫자 카드 나누기%28유클리드 호제법, 최대 공약수%29.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
     <ClCompile Include="[Level2]\스킬트리%28string 문자 찾는 find 함수 활용%29.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
